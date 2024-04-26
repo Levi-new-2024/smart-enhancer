@@ -1,6 +1,6 @@
 """
-Author: Bisnu Ray
-GitHub: https://github.com/bisnuray/
+Author: kakashi hatake
+GitHub: https://github.com/kakashwgwhhw/
 Description: A Telegram bot to enhance photos using the Remini API.
 """
 
